@@ -28,3 +28,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store*.mov
+*.mov
+.DS_Store
+.idea/
+*.mov
+.DS_Store
+.idea/
+*.mov
+*.mov
+.idea/
